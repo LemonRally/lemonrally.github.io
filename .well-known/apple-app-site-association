@@ -2,9 +2,9 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["<TEAMID>.com.lemonrally.keshr"],
+        "appIDs": ["H8FG4YAR4W.com.lemonrally.keshr"],
         "components": [{ "/": "/keshr_pages/i/*" }],
-        "appID": "<TEAMID>.com.lemonrally.keshr",
+        "appID": "H8FG4YAR4W.com.lemonrally.keshr",
         "paths": ["/keshr_pages/i/*"]
       }
     ]

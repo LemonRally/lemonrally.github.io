@@ -5,8 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.lemonrally.keshr",
       "sha256_cert_fingerprints": [
-        "<PLAY_APP_SIGNING_SHA256>",
-        "<UPLOAD_KEY_SHA256>"
+        "9B:F2:34:0E:B2:72:7E:15:AA:AC:31:2D:E3:7F:FD:BF:DE:1D:41:88:EF:76:6E:58:69:47:5F:4E:E5:93:52:97",
+        "5D:D8:E7:4C:69:6E:62:6D:34:CA:9B:52:52:E4:04:FA:34:6E:63:BF:98:45:A1:3A:9D:29:2B:31:8E:66:94:06"
       ]
     }
   }
